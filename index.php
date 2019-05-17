@@ -2,7 +2,7 @@
 function xxx() {
 }
 
-var $test = 'ok02';
+var $test = 'ok03';
 ?>
 <!DOCTYPE html>
 <html lang="ja">

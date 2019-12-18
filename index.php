@@ -1,5 +1,5 @@
 <?php
-function xxx3() {
+function xxx31() {
 }
 
 $test = 'ok05';

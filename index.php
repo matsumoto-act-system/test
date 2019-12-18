@@ -1,8 +1,8 @@
 <?php
-function xxx() {
+function xxx3() {
 }
 
-var $test = 'ok05';
+$test = 'ok05';
 ?>
 <!DOCTYPE html>
 <html lang="ja">
@@ -40,6 +40,7 @@ var $test = 'ok05';
 <template id="top-page">
 <div>
 	<p>top-page</p>
+	test
 
 	<ul>
 		<li><router-link :to="{ name: 'conv-article' }">文章変換ツール</router-link></li>
